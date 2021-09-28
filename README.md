@@ -37,7 +37,16 @@ My name is Diego from Brazil (🇧🇷). I've been working as Front-End Develope
   </tr>
 </table>
 
-[![Diego wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegoslva&layout=compact&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
+## 
+
+## Alguns projetos desenvolvidos
+
+[PetShop Tico Tico](https://ticoticopetshop.com.br/) - Renove digital\
+[Festa da Tainha](https://www.festadatainhapg.com.br/) - Renove digital\
+[Sfera construções](https://sferaconstrucoes.com.br/) - Renove digital
+
+<img align="right" src='https://github-readme-stats.vercel.app/api/wakatime?username=diegoslva&layout=compact&theme=radical'>
+
 
 
 
