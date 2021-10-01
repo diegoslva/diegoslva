@@ -41,9 +41,20 @@ My name is Diego from Brazil (🇧🇷). I've been working as Front-End Develope
 
 ## Alguns projetos desenvolvidos
 
+### Front-End
 [PetShop Tico Tico](https://ticoticopetshop.com.br/) - Renove digital\
 [Festa da Tainha](https://www.festadatainhapg.com.br/) - Renove digital\
 [Sfera construções](https://sferaconstrucoes.com.br/) - Renove digital
+
+## Back-End
+[Sistema estilo Google Drive](https://godrive-clone.herokuapp.com/) - Renove digital
+#### admin@admin | 1234567
+
+
+[Sistema de chamados internos](https://tickets-internos.herokuapp.com/) - Renove digital
+#### admin@admin | 1234567
+
+
 
 <img align="right" src='https://github-readme-stats.vercel.app/api/wakatime?username=diegoslva&layout=compact&theme=radical'>
 
