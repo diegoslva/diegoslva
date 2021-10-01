@@ -41,7 +41,7 @@ My name is Diego from Brazil (🇧🇷). I've been working as Front-End Develope
 
 ## Alguns projetos desenvolvidos
 
-### Front-End
+### Front-End - (lista completa em breve)
 [PetShop Tico Tico](https://ticoticopetshop.com.br/) - Renove digital\
 [Festa da Tainha](https://www.festadatainhapg.com.br/) - Renove digital\
 [Sfera construções](https://sferaconstrucoes.com.br/) - Renove digital
