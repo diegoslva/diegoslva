@@ -12,7 +12,7 @@ I work as a Front-end developer creating promotional websites at [Rede Magic](ht
 
 ### Find me 🌎
 
-🚀 [Site(Em breve)](#) <br>
+🚀 [Personal website](https://diegops.dev/) <br>
 📸 [Instagram](https://www.instagram.com/diegoslva7/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/diegoslva) <br>
 📧 [E-mail](mailto:diegoslva7@gmail.com) <br>
